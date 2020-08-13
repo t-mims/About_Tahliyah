@@ -1,3 +1,26 @@
 body {
-    background-image: url(https://images.pexels.com/photos/1484759/pexels-photo-1484759.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500)
+    background-image: url(IMG_0814.jpeg) ;
+    font-family: 'Thasadith', sans-serif;
+    color: #444;
+}
+.navbar-brand {
+    font-family: 'Caveat', cursive;
+    font-size: xx-large;
+}    
+.container {
+    background-color: #404b3b;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.col-sm-3 {
+    font-size: x-large;
+    color: #404b3b;
+}
+
+#textbox {
+    padding-right: 0px;
+    padding-left: 0px;
+}
+#push_img {
+    margin-top: 112px;
 }
