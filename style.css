@@ -1,5 +1,5 @@
 body {
-    background-image: url(IMG_0814.jpeg) ;
+    background-image: url(images/IMG_0814.jpeg) ;
     font-family: 'Thasadith', sans-serif;
     color: #444;
 }
@@ -11,16 +11,42 @@ body {
     background-color: #404b3b;
     margin-top: 50px;
     margin-bottom: 50px;
+
 }
 .col-sm-3 {
-    font-size: x-large;
+    font-size: large;
     color: #404b3b;
+    flex-flow: column;
+    word-wrap: break-word;
 }
 
 #textbox {
     padding-right: 0px;
     padding-left: 0px;
 }
+
 #push_img {
     margin-top: 112px;
+}
+
+.col-md-4 { 
+    color:#d3e4cb;
+    font-size: x-large;
+    font-family: 'Caveat', cursive;
+    margin-top: 200px;
+    padding-left: 50px;
+
+}
+
+#form {
+    padding: 20px;
+}
+
+footer{
+   background-color: #404b3b;
+   font-family: 'Caveat', cursive;
+}
+footer span {
+    text-align: center;
+    color: #eff8ea;
 }
